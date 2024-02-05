@@ -1120,3 +1120,4 @@
 /Users/lloydnicholson/RiderProjects/TestStaticWebApp/TestStaticWebApp.Blazor/bin/Debug/net8.0/Microsoft.AspNetCore.Components.QuickGrid.dll
 /Users/lloydnicholson/RiderProjects/TestStaticWebApp/TestStaticWebApp.Blazor/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Components.QuickGrid.wasm
 /Users/lloydnicholson/RiderProjects/TestStaticWebApp/TestStaticWebApp.Blazor/obj/Debug/net8.0/compressed/d0l0n364qu.gz
+/Users/lloydnicholson/RiderProjects/TestStaticWebApp/TestStaticWebApp.Blazor/obj/Debug/net8.0/TestStaticWebApp.Blazor.sourcelink.json

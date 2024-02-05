@@ -89,3 +89,4 @@
 /Users/lloydnicholson/RiderProjects/TestStaticWebApp/TestStaticWebApp.Aspire/TestStaticWebApp.Aspire.AppHost/obj/Debug/net8.0/ref/TestStaticWebApp.Aspire.AppHost.dll
 /Users/lloydnicholson/RiderProjects/TestStaticWebApp/TestStaticWebApp.Aspire/TestStaticWebApp.Aspire.AppHost/bin/Debug/net8.0/.graphqlrc.json
 /Users/lloydnicholson/RiderProjects/TestStaticWebApp/TestStaticWebApp.Aspire/TestStaticWebApp.Aspire.AppHost/bin/Debug/net8.0/Microsoft.AspNetCore.Components.QuickGrid.dll
+/Users/lloydnicholson/RiderProjects/TestStaticWebApp/TestStaticWebApp.Aspire/TestStaticWebApp.Aspire.AppHost/obj/Debug/net8.0/TestStaticWebApp.Aspire.AppHost.sourcelink.json
