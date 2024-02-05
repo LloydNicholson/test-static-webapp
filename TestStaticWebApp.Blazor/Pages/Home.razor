@@ -1,0 +1,22 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+<div>Welcome to your new app.</div>
+
+<div>
+    <UsePerson Context="result">
+        <ChildContent>
+            <QuickGrid Items="@result.People.Items.AsQueryable()">
+                <PropertyColumn Property="@(p => p.Id)"/>
+                <PropertyColumn Property="@(p => p.Name)"/>
+                <PropertyColumn Property="@(p => p.Age)"/>
+            </QuickGrid>
+        </ChildContent>
+        <LoadingContent>
+            Loading...
+        </LoadingContent>
+    </UsePerson>
+</div>

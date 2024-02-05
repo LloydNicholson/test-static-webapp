@@ -1,0 +1,16 @@
+{
+  "name": "teststaticwebapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "swa start http://localhost:5135 --data-api-location ./swa-db-connections",
+    "swa": "swa"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@azure/static-web-apps-cli": "^1.1.6"
+  }
+}
