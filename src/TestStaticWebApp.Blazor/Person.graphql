@@ -1,0 +1,9 @@
+query Person {
+    people {
+        items {
+            Id
+            Age
+            Name
+        }
+    }
+}
