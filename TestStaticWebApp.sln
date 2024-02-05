@@ -13,6 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Folder", "Solution
 		swa-db-connections\staticwebapp.database.config.json = swa-db-connections\staticwebapp.database.config.json
 		package.json = package.json
 		swa-cli.config.json = swa-cli.config.json
+		.github\workflows\azure-static-web-apps-white-wave-0db15c003.yml = .github\workflows\azure-static-web-apps-white-wave-0db15c003.yml
 	EndProjectSection
 EndProject
 Global
