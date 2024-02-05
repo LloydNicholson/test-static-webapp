@@ -18,6 +18,7 @@ builder.Services
         (sp, client) =>
         {
             client.BaseAddress = new Uri($"{builder.HostEnvironment.BaseAddress}data-api/graphql");
+            client.DefaultRequestHeaders.Add("X-MS-API-ROLE", "User.Read");
         });
 
 await builder.Build().RunAsync();

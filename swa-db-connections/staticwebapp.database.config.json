@@ -34,7 +34,7 @@
       "source": "dbo.Person",
       "permissions": [
         {
-          "role": "admin",
+          "role": "User.Read",
           "actions": [
             "*"
           ]
